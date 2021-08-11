@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/29134272/129065754-72d14365-637d-49ff-
 <img src="Medinoor/public/img/screenshots/search-doctors-by-body.PNG"><br/>
 
 # search using location
-<img src="Medinoor/public/img/screenshots/search-doctors-by-body.PNG"><br/>
+<img src="Medinoor/public/img/screenshots/search-hospitals-with-location.PNG"><br/>

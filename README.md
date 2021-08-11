@@ -1,3 +1,3 @@
 # Medinoor
  Effective app for medical sector
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+<iframe src="https://fast.wistia.net/embed/iframe/w8t3q36ofl?videoFoam=true"></iframe>

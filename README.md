@@ -1,5 +1,5 @@
 ![Medinoor](https://img.shields.io/github/license/sairash/Patra)<br/>
-<img src="https://i.ibb.co/n84SnZW/medinoor-perf.png"><br/>
+<img src="https://i.ibb.co/bBL0KhG/image.png"><br/>
 # Medinoor
  Effective app for medical sector
 # Video Demo

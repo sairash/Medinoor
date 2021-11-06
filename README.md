@@ -1,4 +1,4 @@
-![Medinoor](https://img.shields.io/github/license/sairash/Patra)<br/>
+![Medinoor](https://img.shields.io/github/license/sairash/medinoor)<br/>
 # <img src="https://i.ibb.co/bBL0KhG/image.png"><br/>
 
  Effective app for medical sector and this was a challenge for myself to complete a webapp in 25 days. With working Twillo SMS system for the server to send sms to an ambulance winthin 3km radius during an emergency sent by medinoor app.
